@@ -1,1 +1,2 @@
-mylogs.log
+*.log
+contents_to_ignore
